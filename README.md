@@ -5,6 +5,10 @@
 ## Introduction
 This project is a secure password manager application designed to enable users to store and manage their passwords securely. With the proliferation of online accounts, ensuring strong password management practices is crucial to safeguarding sensitive information. This application addresses this need by providing users with a reliable solution for securely storing and retrieving their passwords.
 
+## File Structure
+- The `programming-cw1.cpp` file contains the final implementation of the password manager application.
+- The `main.cpp` and `caesar.cpp` files were used for experimental purposes during development.
+
 ## Features
 - User authentication and signup: Users can securely sign up with a valid email and password, with options to generate a password meeting specified criteria.
 - Password management: After successful login, users can add, view, modify, and delete passwords as needed.
